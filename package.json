@@ -13,6 +13,7 @@
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "ibm_db": "^2.7.0",
+    "multer": "^1.4.2",
     "mysql2": "^2.1.0",
     "reflect-metadata": "^0.1.13",
     "sequelize": "git+https://git@github.com/ibmdb/sequelize.git#db2_support"
